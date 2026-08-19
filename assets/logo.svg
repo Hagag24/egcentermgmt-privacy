@@ -1,42 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">EgCenterMgmt</title>
-  <desc id="desc">شعار EgCenterMgmt بألوان الأزرق والفيروزي، يرمز للإدارة والتنظيم والنمو.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="egcenterMarkDarkTitle">
+  <title id="egcenterMarkDarkTitle">EgCenter Brand Mark Dark</title>
   <defs>
-    <linearGradient id="bg" x1="60" y1="40" x2="450" y2="470" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#102B43"/>
-      <stop offset=".58" stop-color="#081827"/>
-      <stop offset="1" stop-color="#05111C"/>
+    <linearGradient id="egcenterMarkDarkBg" x1="10%" y1="8%" x2="90%" y2="92%">
+      <stop offset="0%" stop-color="#0a1f44" />
+      <stop offset="100%" stop-color="#16386f" />
     </linearGradient>
-    <linearGradient id="brand" x1="120" y1="112" x2="390" y2="390" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4AA1FF"/>
-      <stop offset=".48" stop-color="#2378F4"/>
-      <stop offset="1" stop-color="#29D7C2"/>
-    </linearGradient>
-    <linearGradient id="success" x1="300" y1="198" x2="404" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4EE1C7"/>
-      <stop offset="1" stop-color="#83E277"/>
-    </linearGradient>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".32"/>
-    </filter>
   </defs>
-
-  <rect x="24" y="24" width="464" height="464" rx="116" fill="url(#bg)"/>
-  <rect x="24.5" y="24.5" width="463" height="463" rx="115.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
-  <circle cx="256" cy="256" r="168" fill="#fff" fill-opacity=".018" stroke="#fff" stroke-opacity=".055" stroke-width="2"/>
-  <circle cx="256" cy="256" r="132" fill="#fff" fill-opacity=".018" stroke="#4AA1FF" stroke-opacity=".08" stroke-width="2"/>
-
-  <g filter="url(#shadow)">
-    <path d="M147 151h151c31 0 55 8 72 24 15 14 23 32 23 53 0 19-6 35-18 48-9 10-21 18-36 23 18 5 32 13 43 25 13 14 19 31 19 52 0 25-9 46-28 62-18 16-43 24-75 24H147V151Zm69 59v61h71c13 0 22-3 28-9 6-5 9-13 9-23 0-9-3-16-9-21-6-6-15-8-28-8h-71Zm0 119v74h78c14 0 24-3 31-10 7-6 10-15 10-27 0-12-3-21-10-27-7-7-17-10-31-10h-78Z" fill="url(#brand)"/>
-    <path d="M318 165c-47 0-85 38-85 85s38 85 85 85c32 0 60-18 74-44l-50-24c-5 9-14 14-24 14-17 0-31-14-31-31s14-31 31-31c10 0 20 5 25 14l49-25c-15-26-42-43-74-43Z" fill="#0A1C2C" fill-opacity=".82"/>
-    <path d="M313 251l27 27 59-70" fill="none" stroke="url(#success)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-
-  <g opacity=".9">
-    <rect x="118" y="117" width="18" height="48" rx="9" fill="#4AA1FF"/>
-    <rect x="147" y="95" width="18" height="70" rx="9" fill="#2DD2C1"/>
-    <rect x="176" y="72" width="18" height="93" rx="9" fill="#85E47A"/>
-  </g>
-  <circle cx="403" cy="111" r="10" fill="#FFB15F"/>
-  <circle cx="106" cy="370" r="8" fill="#9C78FF"/>
+  <rect x="4" y="4" width="120" height="120" rx="30" fill="url(#egcenterMarkDarkBg)" />
+  <path d="M26 34 H58 V46 H38 V58 H54 V69 H38 V82 H58 V94 H26 Z" fill="#f8fafc" />
+  <path d="M70 22 L106 22 L106 56 L94 44 L94 34 L82 34 Z" fill="#d4a017" />
+  <path d="M95.6 50.4 A22 22 0 1 0 95.6 81.6" fill="none" stroke="#122c5c" stroke-width="18" />
+  <path d="M95.6 50.4 A22 22 0 1 0 95.6 81.6" fill="none" stroke="#f8fafc" stroke-width="12" />
 </svg>
