@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 140" role="img" aria-labelledby="egcenterLockupLightTitle">
+  <title id="egcenterLockupLightTitle">إيجي سنتر | EgCenter</title>
+  <g transform="translate(0 10) scale(0.9375)">
+    <rect x="4" y="4" width="120" height="120" rx="30" fill="#ffffff" />
+    <path d="M26 34 H58 V46 H38 V58 H54 V69 H38 V82 H58 V94 H26 Z" fill="#0a1f44" />
+    <path d="M70 22 L106 22 L106 56 L94 44 L94 34 L82 34 Z" fill="#d4a017" />
+    <path d="M95.6 50.4 A22 22 0 1 0 95.6 81.6" fill="none" stroke="#ffffff" stroke-width="18" />
+    <path d="M95.6 50.4 A22 22 0 1 0 95.6 81.6" fill="none" stroke="#0a1f44" stroke-width="12" />
+  </g>
+  <text x="145" y="66" fill="#ffffff" font-size="40" font-family="Cairo, Segoe UI, Tahoma, sans-serif" font-weight="800">إيجي سنتر</text>
+  <text x="145" y="106" fill="#d4a017" font-size="31" font-family="Cairo, Segoe UI, Tahoma, sans-serif" font-weight="700">EgCenter</text>
+</svg>
