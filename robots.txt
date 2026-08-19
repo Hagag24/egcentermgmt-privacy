@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hagag24.github.io/egcentermgmt-privacy/sitemap.xml
