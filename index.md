@@ -1,68 +1,58 @@
-# Privacy Policy
+# سياسة الخصوصية — EgCenterMgmt
 
-**Last updated: August 15, 2026**
+**آخر تحديث: 19 أغسطس 2026**
 
-This Privacy Policy explains how the application handles information when it is used by authorized users.
+توضح هذه السياسة كيفية تعامل تطبيق **EgCenterMgmt** مع المعلومات عند استخدامه بواسطة الجهات والمستخدمين المصرح لهم.
 
-## Information processed by the application
+## المعلومات التي يعالجها التطبيق
 
-The application may process information entered by authorized users as part of normal business and administrative operations. This may include:
+قد يعالج التطبيق المعلومات التي يُدخلها المستخدمون المصرح لهم ضمن الأعمال الإدارية والتشغيلية المعتادة، وقد تشمل:
 
-* Names and account information.
-* Contact information.
-* Student, customer, employee, or staff records.
-* Attendance and operational records.
-* Financial or payment-related administrative records.
-* Other information entered by authorized users while using the application.
+- الأسماء وبيانات الحسابات.
+- معلومات التواصل.
+- سجلات الطلاب والعملاء والموظفين والعاملين.
+- سجلات الحضور والتشغيل.
+- السجلات الإدارية المرتبطة بالمدفوعات أو المعاملات المالية.
+- أي معلومات أخرى يُدخلها المستخدمون المصرح لهم أثناء استخدام التطبيق.
 
-The exact information processed depends on how the organization using the application configures and uses the system.
+ويعتمد نوع المعلومات التي تتم معالجتها على طريقة إعداد المؤسسة للنظام واستخدامها له.
 
-## How information is used
+## استخدام المعلومات
 
-Information processed by the application is used only to provide the application's business and administrative functions, including managing records, users, operations, reports, and related services.
+تُستخدم المعلومات فقط لتقديم وظائف التطبيق الإدارية والتشغيلية، بما في ذلك إدارة السجلات والمستخدمين والحضور والعمليات والمدفوعات والمخزون والتقارير والخدمات المرتبطة بها.
 
-The application does not use personal information for advertising purposes.
+لا يستخدم EgCenterMgmt المعلومات الشخصية لأغراض الإعلانات.
 
-## Data storage
+## تخزين البيانات
 
-Application data may be stored in databases and storage systems configured by the organization using the application.
+قد يتم تخزين بيانات التطبيق في قواعد بيانات أو أنظمة تخزين تقوم المؤسسة المستخدمة للتطبيق بإعدادها أو تشغيلها. وتحدد المؤسسة مدة الاحتفاظ بالبيانات وفق احتياجاتها التشغيلية والالتزامات القانونية المطبقة عليها.
 
-Data is retained according to the organization's operational requirements and applicable legal obligations.
+## مشاركة البيانات
 
-## Data sharing
+لا يبيع EgCenterMgmt المعلومات الشخصية. وقد تكون المعلومات متاحة للمستخدمين المصرح لهم داخل المؤسسة، كما قد يتم تبادلها مع خدمات أو أنظمة مرتبطة فقط عندما يكون ذلك ضروريًا لتشغيل التطبيق أو تقديم خدمة مطلوبة.
 
-The application does not sell personal information.
+## الأمان
 
-Information may be accessible to authorized users of the organization and may be shared with service providers or systems only when required to operate the application or provide requested services.
+تُستخدم إجراءات تقنية وتنظيمية معقولة للمساعدة في حماية المعلومات من الوصول غير المصرح به أو التعديل أو الإفصاح أو الفقد. ويعتمد الوصول إلى وظائف التطبيق وبياناته على الحسابات والأدوار والصلاحيات التي تضبطها المؤسسة.
 
-## Security
+## الاتصال بالإنترنت
 
-Reasonable technical and organizational measures are used to protect information against unauthorized access, alteration, disclosure, or loss.
+قد يستخدم التطبيق اتصالًا بالإنترنت للتواصل مع خدمات خلفية أو واجهات API أو خدمات مصادقة أو خدمات تطبيق أو ترخيص أو خدمات Microsoft Store اللازمة للتثبيت أو التشغيل أو التحديث.
 
-Access to application functions and information is limited according to user accounts, permissions, and roles configured by the organization.
+## حقوق المستخدمين وطلبات البيانات
 
-## Internet access
+إذا أراد المستخدم الوصول إلى معلوماته الشخصية أو تصحيحها أو تحديثها أو طلب حذفها، فعليه التواصل مع المؤسسة التي تدير نسخة النظام المستخدمة لديه أو التواصل مع دعم التطبيق عند الحاجة.
 
-The application may use an internet connection to communicate with authorized backend services, APIs, authentication services, application services, or Microsoft Store services required for installation and updates.
+## معلومات الأطفال والقُصّر
 
-## User rights and data requests
+EgCenterMgmt نظام إداري وتشغيلي. يجب إدخال وإدارة أي معلومات تتعلق بالقُصّر فقط بواسطة جهات ومستخدمين مصرح لهم، وبما يتوافق مع القوانين المطبقة وسياسات المؤسسة.
 
-Users who wish to access, correct, update, or request deletion of personal information associated with their use of the application should contact the organization that operates the application or contact application support.
+## تحديثات السياسة
 
-Requests will be handled in accordance with applicable laws and organizational policies.
+قد يتم تحديث سياسة الخصوصية عند تغير وظائف التطبيق أو ممارسات معالجة البيانات أو المتطلبات القانونية. وستظل أحدث نسخة منشورة متاحة عبر صفحة سياسة الخصوصية الرسمية.
 
-## Children's information
+## التواصل
 
-The application is an administrative and management system. Any information relating to minors must be entered and managed only by authorized organizations and users in accordance with applicable laws and organizational policies.
-
-## Changes to this Privacy Policy
-
-This Privacy Policy may be updated when application functionality, data practices, or legal requirements change.
-
-The latest version will always be available at this page.
-
-## Contact
-
-For privacy questions or support requests, contact:
-
-**Email:** mohamed.dev.eg@gmail.com
+- البريد الإلكتروني: **mohamed.dev.eg@gmail.com**
+- المطور والناشر: **Hagag**
+- GitHub: **https://github.com/Hagag24**
