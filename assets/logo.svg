@@ -1,22 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">EgCenterMgmt logo</title>
-  <desc id="desc">Modern blue and green business management logo with EG monogram, chart and growth arrow.</desc>
+  <title id="title">EgCenterMgmt</title>
+  <desc id="desc">شعار EgCenterMgmt بألوان الأزرق والفيروزي، يرمز للإدارة والتنظيم والنمو.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1f3d"/><stop offset="1" stop-color="#07111f"/></linearGradient>
-    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38a7ff"/><stop offset="1" stop-color="#1476ff"/></linearGradient>
-    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35d6d0"/><stop offset="1" stop-color="#67df5c"/></linearGradient>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+    <linearGradient id="bg" x1="60" y1="40" x2="450" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102B43"/>
+      <stop offset=".58" stop-color="#081827"/>
+      <stop offset="1" stop-color="#05111C"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="120" y1="112" x2="390" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4AA1FF"/>
+      <stop offset=".48" stop-color="#2378F4"/>
+      <stop offset="1" stop-color="#29D7C2"/>
+    </linearGradient>
+    <linearGradient id="success" x1="300" y1="198" x2="404" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4EE1C7"/>
+      <stop offset="1" stop-color="#83E277"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".32"/>
+    </filter>
   </defs>
-  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#bg)" stroke="#ffffff" stroke-opacity=".08"/>
+
+  <rect x="24" y="24" width="464" height="464" rx="116" fill="url(#bg)"/>
+  <rect x="24.5" y="24.5" width="463" height="463" rx="115.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+  <circle cx="256" cy="256" r="168" fill="#fff" fill-opacity=".018" stroke="#fff" stroke-opacity=".055" stroke-width="2"/>
+  <circle cx="256" cy="256" r="132" fill="#fff" fill-opacity=".018" stroke="#4AA1FF" stroke-opacity=".08" stroke-width="2"/>
+
   <g filter="url(#shadow)">
-    <circle cx="256" cy="244" r="166" fill="none" stroke="#1f8cff" stroke-opacity=".28" stroke-width="12"/>
-    <path d="M116 154h150c33 0 56 18 56 47 0 23-13 39-34 46 27 7 43 25 43 52 0 35-27 58-70 58H116V154Zm70 58v44h67c12 0 19-8 19-22s-7-22-19-22h-67Zm0 96v48h73c14 0 22-8 22-24 0-16-8-24-22-24h-73Z" fill="url(#blue)"/>
-    <path d="M345 181c-62 0-110 45-110 105 0 61 47 107 110 107 44 0 80-21 99-55l-56-26c-8 15-23 24-42 24-28 0-50-21-50-50 0-28 21-49 49-49 18 0 33 8 42 21l56-27c-19-31-54-50-98-50Z" fill="url(#green)"/>
-    <path d="M392 145v56h-56" fill="none" stroke="#8add35" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M314 227c36-5 64-23 78-82" fill="none" stroke="#8add35" stroke-width="18" stroke-linecap="round"/>
-    <rect x="178" y="112" width="22" height="54" rx="6" fill="#38a7ff"/>
-    <rect x="210" y="88" width="22" height="78" rx="6" fill="#35d6d0"/>
-    <rect x="242" y="64" width="22" height="102" rx="6" fill="#8add35"/>
+    <path d="M147 151h151c31 0 55 8 72 24 15 14 23 32 23 53 0 19-6 35-18 48-9 10-21 18-36 23 18 5 32 13 43 25 13 14 19 31 19 52 0 25-9 46-28 62-18 16-43 24-75 24H147V151Zm69 59v61h71c13 0 22-3 28-9 6-5 9-13 9-23 0-9-3-16-9-21-6-6-15-8-28-8h-71Zm0 119v74h78c14 0 24-3 31-10 7-6 10-15 10-27 0-12-3-21-10-27-7-7-17-10-31-10h-78Z" fill="url(#brand)"/>
+    <path d="M318 165c-47 0-85 38-85 85s38 85 85 85c32 0 60-18 74-44l-50-24c-5 9-14 14-24 14-17 0-31-14-31-31s14-31 31-31c10 0 20 5 25 14l49-25c-15-26-42-43-74-43Z" fill="#0A1C2C" fill-opacity=".82"/>
+    <path d="M313 251l27 27 59-70" fill="none" stroke="url(#success)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <circle cx="113" cy="325" r="14" fill="#a36cff"/><circle cx="408" cy="120" r="14" fill="#ff9d2f"/><circle cx="424" cy="352" r="14" fill="#35d6d0"/>
+
+  <g opacity=".9">
+    <rect x="118" y="117" width="18" height="48" rx="9" fill="#4AA1FF"/>
+    <rect x="147" y="95" width="18" height="70" rx="9" fill="#2DD2C1"/>
+    <rect x="176" y="72" width="18" height="93" rx="9" fill="#85E47A"/>
+  </g>
+  <circle cx="403" cy="111" r="10" fill="#FFB15F"/>
+  <circle cx="106" cy="370" r="8" fill="#9C78FF"/>
 </svg>
