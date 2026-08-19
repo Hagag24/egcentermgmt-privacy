@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 140" role="img" aria-labelledby="egcenterLockupDarkTitle">
+  <title id="egcenterLockupDarkTitle">إيجي سنتر | EgCenter</title>
+  <defs>
+    <linearGradient id="egcenterLockupDarkBg" x1="10%" y1="8%" x2="90%" y2="92%">
+      <stop offset="0%" stop-color="#0a1f44" />
+      <stop offset="100%" stop-color="#16386f" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(0 10) scale(0.9375)">
+    <rect x="4" y="4" width="120" height="120" rx="30" fill="url(#egcenterLockupDarkBg)" />
+    <path d="M26 34 H58 V46 H38 V58 H54 V69 H38 V82 H58 V94 H26 Z" fill="#f8fafc" />
+    <path d="M70 22 L106 22 L106 56 L94 44 L94 34 L82 34 Z" fill="#d4a017" />
+    <path d="M95.6 50.4 A22 22 0 1 0 95.6 81.6" fill="none" stroke="#122c5c" stroke-width="18" />
+    <path d="M95.6 50.4 A22 22 0 1 0 95.6 81.6" fill="none" stroke="#f8fafc" stroke-width="12" />
+  </g>
+  <text x="145" y="66" fill="#0a1f44" font-size="40" font-family="Cairo, Segoe UI, Tahoma, sans-serif" font-weight="800">إيجي سنتر</text>
+  <text x="145" y="106" fill="#2a4f88" font-size="31" font-family="Cairo, Segoe UI, Tahoma, sans-serif" font-weight="700">EgCenter</text>
+</svg>
